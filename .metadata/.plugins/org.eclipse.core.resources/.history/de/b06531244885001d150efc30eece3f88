@@ -1,0 +1,8 @@
+package snippet;
+
+public class Snippet {
+	public static void main(String[] args) {
+		/springmvc/src/main/webapp/WEB-INF/views/bg1.jpg
+	}
+}
+

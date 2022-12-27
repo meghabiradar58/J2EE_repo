@@ -1,0 +1,1 @@
+package com.jspirds.hibernate2;

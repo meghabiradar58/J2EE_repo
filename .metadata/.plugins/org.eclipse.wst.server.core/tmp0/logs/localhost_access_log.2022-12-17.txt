@@ -1,0 +1,12 @@
+127.0.0.1 - - [17/Dec/2022:10:26:42 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Dec/2022:10:26:43 +0530] "GET /servletjsp/Demoservlet HTTP/1.1" 200 6
+127.0.0.1 - - [17/Dec/2022:10:39:43 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Dec/2022:10:39:44 +0530] "GET /servletjsp/RegistrationFrom.html HTTP/1.1" 200 1114
+0:0:0:0:0:0:0:1 - - [17/Dec/2022:10:40:05 +0530] "GET /servletjsp/Registration HTTP/1.1" 200 22
+0:0:0:0:0:0:0:1 - - [17/Dec/2022:10:40:40 +0530] "POST /servletjsp/registration HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [17/Dec/2022:10:46:10 +0530] "POST /servletjsp/registration HTTP/1.1" 404 778
+127.0.0.1 - - [17/Dec/2022:10:47:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Dec/2022:10:47:45 +0530] "GET /servletjsp/RegistrationFrom.html HTTP/1.1" 200 1114
+0:0:0:0:0:0:0:1 - - [17/Dec/2022:10:48:11 +0530] "POST /servletjsp/Registration HTTP/1.1" 200 22
+127.0.0.1 - - [17/Dec/2022:10:50:16 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Dec/2022:10:50:17 +0530] "GET /servletjsp/Registration HTTP/1.1" 200 22
